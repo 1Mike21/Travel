@@ -13,5 +13,27 @@
 body {
     background-image: url(/img/background.jpg);
     background-size: cover;
-    
+    font-family: 'Inter-Bold', sans-serif;
+    background-repeat: no-repeat;
+    color: white;
+}
+.ftext {
+    font-size: 65px;
+    font-weight: bold;
+    text-shadow: 0 4px 25px black;
+}
+.stext {
+    font-family: 'Inter-SemiBold', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    text-shadow: 0 4px 25px black;
+}
+.button {
+    font-size: 30px;
+    background-color: #EB5757;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 30px;
+    font-weight: 700;
 }
