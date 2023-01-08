@@ -11,5 +11,7 @@
 	font-style: normal;
 }
 body {
-    background-image: background;
+    background-image: url(/img/background.jpg);
+    background-size: cover;
+    
 }
